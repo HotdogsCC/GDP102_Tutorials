@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\GDP102_Tutorials\\Week 2 Pt2 Card Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123853EA-9C6A-D361-4B6A-AD7D34389493}|Assembly-CSharp.csproj|d:\\github\\gdp102_tutorials\\week 2 pt2 card game\\assets\\scripts\\cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123853EA-9C6A-D361-4B6A-AD7D34389493}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardGame.cs",
+              "DocumentMoniker": "D:\\GitHub\\GDP102_Tutorials\\Week 2 Pt2 Card Game\\Assets\\scripts\\CardGame.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CardGame.cs",
+              "ToolTip": "D:\\GitHub\\GDP102_Tutorials\\Week 2 Pt2 Card Game\\Assets\\scripts\\CardGame.cs",
+              "RelativeToolTip": "Assets\\scripts\\CardGame.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAgwMYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:23:05.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
